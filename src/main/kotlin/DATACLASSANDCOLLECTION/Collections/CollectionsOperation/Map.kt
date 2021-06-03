@@ -4,7 +4,7 @@ fun main() {
         if(it == "suga" || it == "rm" || it == "jhope")//untuk bisa menambanh kan rap
             "$it Rap"
 
-        else//selain itu di akan vocal
+        else//selain itu dia akan vocal
             "$it Vocal"
     }
 
